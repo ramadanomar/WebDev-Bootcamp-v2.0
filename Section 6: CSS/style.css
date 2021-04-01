@@ -9,4 +9,13 @@ button {
 p {
     color: aqua;
     background-color: crimson;
+    text-align:justify;
+    font-weight:700;
+    text-decoration: underline;
+    line-height: 2
+}
+
+h1 {
+    text-align:center;
+    letter-spacing: 15px;
 }
