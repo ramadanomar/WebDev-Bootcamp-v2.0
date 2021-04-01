@@ -19,3 +19,8 @@ h1 {
     text-align:center;
     letter-spacing: 15px;
 }
+
+button:hover{
+    background-color:red;
+    color:whitesmoke;
+}
