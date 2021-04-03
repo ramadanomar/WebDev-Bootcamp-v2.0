@@ -24,3 +24,17 @@ button:hover{
     background-color:red;
     color:whitesmoke;
 }
+
+h1 {
+    border-width:5px;
+    border-color: blue;
+    border-style: solid;
+    border-radius:99%;
+    box-sizing:border-box;
+}
+
+#two {
+    border-color:brown;
+    border-width:30px;
+    border-style: solid;
+}
